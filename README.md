@@ -7,7 +7,7 @@ I'm a technology enthusiast, always ready to dive into new technologies and eage
 # Corne Keyboard 
 <img src="https://i.redd.it/ydzneqfvn2551.jpg"
      alt="crkbd"
-     style="float: left; margin-right: 10px;" />
+     style="width:400px" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
