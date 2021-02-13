@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## I'm Plamen Petkov, a full-stack developer.
-
+I'm a technology enthusiast, always ready to dive into new technologies and eager to test the unknown, I spend my days working as a Software Developer and in my free time I try to specilialize into different range of technologies to have a good set of tools in my belt. I specialize in the Java Spring framework on the backend but open to use Quarkus and Javascript, Vue.js or Angular.JS on the frontend and Bootstrap or Tailwind CSS for styling. I'm also a Linux enthusiast, obsessed with productivity, such as Window Tiling Managers, Mechanic Keyboards leveraging VIM and Automation of mundane tasks with Bash, Deno, Cronjobs and other set of tools. I use the cloud actively and have a Virtual Private Server where I test and try my skills.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
