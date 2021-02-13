@@ -5,7 +5,7 @@ I'm a technology enthusiast, always ready to dive into new technologies and eage
 
 ## My Setup
 # Corne Keyboard 
-<img src="https://dev.plamenpetkovonline.com/repositories/cornekbd.png"
+<img src="https://i.redd.it/ydzneqfvn2551.jpg"
      alt="crkbd"
      style="float: left; margin-right: 10px;" />
 
