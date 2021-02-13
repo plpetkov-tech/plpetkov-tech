@@ -5,8 +5,8 @@ I'm a technology enthusiast, always ready to dive into new technologies and eage
 
 ## My Setup
 # Corne Keyboard 
-<img src="markdownmonstericon.png"
-     alt="Markdown Monster icon"
+<img src="https://dev.plamenpetkovonline.com/repositories/cornekbd.png"
+     alt="crkbd"
      style="float: left; margin-right: 10px;" />
 
 - 🔭 I’m currently working on ...
