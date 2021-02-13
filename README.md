@@ -6,8 +6,7 @@ I'm a technology enthusiast, always ready to dive into new technologies and eage
 ## My Setup
 # Corne Keyboard 
 <img src="https://i.redd.it/ydzneqfvn2551.jpg"
-     alt="crkbd"
-     style="width:200px" />
+     alt="crkbd" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
