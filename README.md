@@ -12,3 +12,23 @@ I'm a technology enthusiast, always ready to dive into new technologies and eage
 - 📫 How to reach me: use the form in my website plamenpetkovonline.com
 - 😄 Pronouns: He/Male
 - ⚡ Fun fact: I'm bulgarian grown up in Madrid, I love pull ups in street bars, craft weiss beer and sweets. (Don't get scared) I can blow air through my eye.
+
+My Current RoadMap To-do list
+[X] asd
+[ ]
+[ ]
+[ ]
+[ ]
+[ ]
+[ ]
+[ ]
+[ ]
+[ ]
+[ ]
+[ ]
+[ ]
+[ ]
+[ ]
+[ ]
+[ ]
+[ ]
