@@ -13,22 +13,38 @@ I'm a technology enthusiast, always ready to dive into new technologies and eage
 - 😄 Pronouns: He/Male
 - ⚡ Fun fact: I'm bulgarian grown up in Madrid, I love pull ups in street bars, craft weiss beer and sweets. (Don't get scared) I can blow air through my eye.
 
-My Current RoadMap To-do list
-[X] asd
-[ ]
-[ ]
-[ ]
-[ ]
-[ ]
-[ ]
-[ ]
-[ ]
-[ ]
-[ ]
-[ ]
-[ ]
-[ ]
-[ ]
-[ ]
-[ ]
-[ ]
+My Current RoadMap To-do list:  
+[ ] Startup management : initd  
+[ ] OS Concepts: Process management
+[ ] OS Concepts: Threads and concurrency  
+[ ] OS Concepts: Sockets  
+[ ] OS Concepts: POSIX Basics
+[ ] OS Concepts: Networking concepts  
+[ ] OS Concepts: I/O Management  
+[X] OS Concepts: Virtualization  
+[ ] OS Concepts: Memory/Storage  
+[X] OS Concepts: File Systems 
+[ ] Practice bash scripting  
+[ ] System performance nmon iostat sar vmstat  
+[ ] Others: strace, dtrace, systemtap, uname, df, history  
+[ ] Network: nmap, tcpdump, ping, mtr, traceroute, dig, airmon, airodump, iptables, netstat  
+[ ] Process Monitoring: ps, top, htop, atop, lsof  
+[ ] Emails: SMTP, IMAPS, POP3S, DMARC, SPF, Domain Keys  
+[ ] What is and how to setup: Reverse proxy   
+[ ] What is and how to setup: Forward proxy  
+[ ] What is and how to setup: Firewall  
+[ ] What is and how to setup: Load Balancer   
+[ ] What is and how to setup: Caching server  
+[ ] What is and how to setup: Nginx and Apache
+[ ] Learn infrastructure as a code: Service mesh (Istio, Consul)
+[ ] Learn infrastructure as a code: Infrastructure Provisioning Terraform
+[X] Learn infrastructure as a code: Container orchestration Kubernetes
+[ ] Learn infrastructure as a code: Configuration management Ansible
+[X] Learn infrastructure as a code: Containers Docker
+[ ] Learn infrastructure as a code:  CI/CD Tool Jenkins Github Actions GitlabCI
+[ ] Learn how to monitor software and infrastructure: Elastic Stack for Logs management
+[ ] Learn how to monitor software and infrastructure: Infrastructure Monitoring: Prometheus and Grafana
+[ ] Learn how to monitor software and infrastructure: Application Monitoring: Jaeger or New Relic
+[X] Cloud Providers: AWS
+[ ] Cloud Providers: Cloud Design patterns : Availability, Data Management, Design and Implementation, Management and Monitoring  
+[ ] Keep learning
