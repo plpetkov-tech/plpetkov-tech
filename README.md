@@ -13,7 +13,7 @@ I'm a technology enthusiast, always ready to dive into new technologies and eage
 - 😄 Pronouns: He/Male
 - ⚡ Fun fact: I'm bulgarian grown up in Madrid, I love pull ups in street bars, craft weiss beer and sweets. (Don't get scared) I can blow air through my eye.
 
-My Current RoadMap To-do list:  
+# My Current DevOps Road Map To-do list:  
 [ ] Startup management : initd  
 [ ] OS Concepts: Process management
 [ ] OS Concepts: Threads and concurrency  
