@@ -16,7 +16,7 @@ I'm a technology enthusiast, always ready to dive into new technologies and eage
 # My Current DevOps Road Map To-do list:  
 [X] Startup management : initd    
 [X] OS Concepts: Process management    
-[ ] OS Concepts: Threads and concurrency     
+[X] OS Concepts: Threads and concurrency     
 [ ] OS Concepts: Sockets    
 [ ] OS Concepts: POSIX Basics   
 [ ] OS Concepts: Networking concepts     
