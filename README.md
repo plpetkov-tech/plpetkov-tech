@@ -18,7 +18,7 @@ I'm a technology enthusiast, always ready to dive into new technologies and eage
 [X] OS Concepts: Process management    
 [X] OS Concepts: Threads and concurrency     
 [X] OS Concepts: Sockets    
-[ ] OS Concepts: POSIX Basics   
+[X] OS Concepts: POSIX Basics   
 [ ] OS Concepts: Networking concepts     
 [ ] OS Concepts: I/O Management     
 [X] OS Concepts: Virtualization    
