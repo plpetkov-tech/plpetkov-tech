@@ -17,7 +17,7 @@ I'm a technology enthusiast, always ready to dive into new technologies and eage
 [X] Startup management : initd    
 [X] OS Concepts: Process management    
 [X] OS Concepts: Threads and concurrency     
-[ ] OS Concepts: Sockets    
+[X] OS Concepts: Sockets    
 [ ] OS Concepts: POSIX Basics   
 [ ] OS Concepts: Networking concepts     
 [ ] OS Concepts: I/O Management     
