@@ -19,30 +19,30 @@ I'm a technology enthusiast, always ready to dive into new technologies and eage
 [X] OS Concepts: Threads and concurrency     
 [X] OS Concepts: Sockets    
 [X] OS Concepts: POSIX Basics   
-[ ] OS Concepts: Networking concepts     
-[ ] OS Concepts: I/O Management     
+[X] OS Concepts: Networking concepts     
+[X] OS Concepts: I/O Management     
 [X] OS Concepts: Virtualization    
-[ ] OS Concepts: Memory/Storage    
+[X] OS Concepts: Memory/Storage    
 [X] OS Concepts: File Systems   
-[ ] Practice bash scripting    
-[ ] System performance nmon iostat sar vmstat    
-[ ] Others: strace, dtrace, systemtap, uname, df, history    
-[ ] Network: nmap, tcpdump, ping, mtr, traceroute, dig, airmon, airodump, iptables, netstat    
-[ ] Process Monitoring: ps, top, htop, atop, lsof    
-[ ] Emails: SMTP, IMAPS, POP3S, DMARC, SPF, Domain Keys    
-[ ] What is and how to setup: Reverse proxy     
-[ ] What is and how to setup: Forward proxy    
-[ ] What is and how to setup: Firewall    
-[ ] What is and how to setup: Load Balancer     
-[ ] What is and how to setup: Caching server    
-[ ] What is and how to setup: Nginx and Apache    
-[ ] Learn infrastructure as a code: Service mesh (Istio, Consul)     
-[ ] Learn infrastructure as a code: Infrastructure Provisioning Terraform   
+[X] Practice bash scripting    
+[X] System performance nmon iostat sar vmstat    
+[X] Others: strace, dtrace, systemtap, uname, df, history    
+[X] Network: nmap, tcpdump, ping, mtr, traceroute, dig, airmon, airodump, iptables, netstat    
+[X] Process Monitoring: ps, top, htop, atop, lsof    
+[X] Emails: SMTP, IMAPS, POP3S, DMARC, SPF, Domain Keys    
+[X] What is and how to setup: Reverse proxy     
+[X] What is and how to setup: Forward proxy    
+[X] What is and how to setup: Firewall    
+[X] What is and how to setup: Load Balancer     
+[X] What is and how to setup: Caching server    
+[X] What is and how to setup: Nginx and Apache    
+[X] Learn infrastructure as a code: Service mesh (Istio, Consul)     
+[X] Learn infrastructure as a code: Infrastructure Provisioning Terraform   
 [X] Learn infrastructure as a code: Container orchestration Kubernetes   
 [ ] Learn infrastructure as a code: Configuration management Ansible   
 [X] Learn infrastructure as a code: Containers Docker   
-[ ] Learn infrastructure as a code:  CI/CD Tool Jenkins Github Actions GitlabCI   
-[ ] Learn how to monitor software and infrastructure: Elastic Stack for Logs management   
+[X] Learn infrastructure as a code:  CI/CD Tool Jenkins Github Actions GitlabCI   
+[X] Learn how to monitor software and infrastructure: Elastic Stack for Logs management   
 [ ] Learn how to monitor software and infrastructure: Infrastructure Monitoring: Prometheus and Grafana   
 [ ] Learn how to monitor software and infrastructure: Application Monitoring: Jaeger or New Relic   
 [X] Cloud Providers: AWS   
