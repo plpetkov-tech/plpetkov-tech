@@ -5,7 +5,7 @@ I’m Plamen Petkov, a technology craftsman, always ready to dive into new techn
 
 
 - 🔭 I’m currently working on hacking HTB Boxes
-- 🌱 I’m currently learning DevOps pipelines and Vue.JS
+- 🌱 I’m currently learning DevSecOps pipelines and Ethical Hacking
 - 👯 I’m looking to collaborate on Deno and Javascript libraries, small and easy ones preferable.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Javascript, Web, Java, DevOps, Security, Interviews, CVs, Countries, Tourism, Mechanical Keyboards, Soldering, Calisthenics, Diets, Linux...
