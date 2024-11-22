@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Plamen Petkov
 
-## Site Reliability Engineer & Kubernetes & Cloud-Native Solutions Architect
+## Site Reliability Engineer | Kubernetes & Cloud-Native Solutions Architect
 
 I'm a technology enthusiast specializing in cloud native infrastructure, with a strong focus on Kubernetes and platform engineering. With extensive experience across various industries, I bring a comprehensive approach to building and maintaining scalable, secure, and observable systems.
 
