@@ -1,14 +1,46 @@
-### Hi there 👋
+### Hi there 👋 I'm Plamen Petkov
 
-## I'm Plamen Petkov, a DevOps Engineer.
-I’m Plamen Petkov, a technology craftsman, always ready to dive into new technologies and eager to test the unknown, I spend my days working as a DevOps Engineer and in my free time I try to specilialize into different range of technologies to have a good set of tools in my belt. I also enjoy deep-diving into Security and Pentesting, with the purpose of adding Sec to my portfolio. I'm also a Linux enthusiast, obsessed with productivity, such as Window Tiling Managers, Mechanic Keyboards and Automation of tasks with Bash, Python, Cronjobs and other set of tools. I use the cloud actively and have a Virtual Private Server where I test my skills.
+## Site Reliability Engineer & Kubernetes & Cloud-Native Solutions Architect
 
+I'm a technology enthusiast specializing in cloud native infrastructure, with a strong focus on Kubernetes and platform engineering. With extensive experience across various industries, I bring a comprehensive approach to building and maintaining scalable, secure, and observable systems.
 
-- 🔭 I’m currently working on hacking HTB Boxes
-- 🌱 I’m currently learning DevSecOps pipelines and Ethical Hacking
-- 👯 I’m looking to collaborate on Deno and Javascript libraries, small and easy ones preferable.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Javascript, Web, Java, DevOps, Security, Interviews, CVs, Countries, Tourism, Mechanical Keyboards, Soldering, Calisthenics, Diets, Linux...
-- 📫 How to reach me: use the form in my website plamenpetkovonline.com
-- 😄 Pronouns: He/Male
-- ⚡ Fun fact: I'm bulgarian grown up in Madrid, I love pull ups in street bars, craft weiss beer and sweets. (Don't get scared) I can blow air through my eye. 
+### Current Focus 🎯
+- Building and operating production-grade Kubernetes platforms
+- Implementing GitOps practices with Terraform and ArgoCD
+- Designing comprehensive observability solutions
+- Developing internal developer platforms to enhance team productivity
+
+### Technical Expertise 🛠
+- **Container Orchestration**: Kubernetes, OpenShift, AKS
+- **Infrastructure as Code**: Terraform, Ansible
+- **Observability**: Grafana stack (Mimir, Loki, Tempo, Beyla), Prometheus
+- **Security**: Trivy, Falco, Security Profiles
+- **CI/CD**: Github Actions, GitLab CI, Jenkins, Azure DevOps
+- **Cloud Platforms**: AWS, Azure
+
+### Certifications 🏆
+- Certified Kubernetes Security Specialist (CKS)
+- Certified Kubernetes Administrator (CKA)
+- Certified Kubernetes Developer (CKAD)
+- AWS Solutions Architect
+- HashiCorp Terraform Associate
+- GitOps Certifications (3/3)
+
+### Personal Projects 🔧
+- Operating a homelab environment for testing and learning
+- Implementing multi-tenant Kubernetes clusters with zero-trust security
+- Building IoT monitoring solutions with the Grafana stack
+- Experimenting with service mesh technologies (Istio, Linkerd)
+
+### Interests Beyond Tech 🌱
+- Calisthenics enthusiast
+- Homelab tinkerer
+- Hiking adventures
+- Proud father
+
+### Connect With Me 🤝
+- Website: [plamenpetkovonline.com](https://plamenpetkovonline.com)
+- LinkedIn: [/in/plamenonline](https://linkedin.com/in/plamenonline)
+
+---
+Always excited to collaborate on cloud native projects and share knowledge with the community. Currently focused on advancing platform engineering practices and building developer-centric infrastructure solutions.
